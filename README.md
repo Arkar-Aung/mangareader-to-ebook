@@ -71,3 +71,15 @@ Make PDF
 Example :
 
 	$python makePDF.py Bleach_482 jpg
+	
+
+Rename Downloaded Manga
+=======================
+
+You can rename programmatically to well-organized version by using [this shell script](https://gist.github.com/Arkar-Aung/cb9ae27ad53e1e3fd115).
+
+        $/bin/bash rename.sh <path> <extension>
+        
+Example : 
+      
+        $/bin/bash rename.sh /home/me/manga/bleach .jpg
