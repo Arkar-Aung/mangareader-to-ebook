@@ -76,7 +76,7 @@ Example :
 Rename Downloaded Manga
 =======================
 
-You can rename programmatically to well-organized version by using [this shell script](https://gist.github.com/Arkar-Aung/cb9ae27ad53e1e3fd115).
+You can rename programmatically downloaded manga files to well-organized version by using [this shell script](https://gist.github.com/Arkar-Aung/cb9ae27ad53e1e3fd115).
 
         $/bin/bash rename.sh <path> <extension>
         
